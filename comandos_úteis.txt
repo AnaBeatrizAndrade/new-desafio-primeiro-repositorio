@@ -1,0 +1,10 @@
+dir - listar diretórios na pasta
+cd - navegar entre as pastas
+cd .. - retroceder 1 nível
+cls - limpar tela
+tab - autocompletar
+mkdir - criar uma pasta
+echo - print e retorna na tela
+del - deletar arquivos
+rmdir - deletar pasta
+seta para cima ou para baixo - histórico de comandos no terminal
